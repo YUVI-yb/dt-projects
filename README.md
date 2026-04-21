@@ -6,7 +6,8 @@ Each project is self-contained and demonstrates a different aspect of applied pr
 
 📁 Projects Overview
 
-**1. Reflection Tree — Deterministic Behavioural System** -- https://github.com/YUVI-yb/dt-projects/tree/main/assignments/Reflection%20Tree
+**1. Reflection Tree — Deterministic Behavioural System** 
+
 A rule-based psychological reflection tool that guides users through a structured end-of-day reflection using three axes:
 
 - Locus of Control (Internal vs External)
@@ -19,7 +20,8 @@ The system is fully deterministic:
 No AI or randomness is used at runtime. The output is fully traceable and logic-driven.
 
 
-**2. AI Newsletter — Structured Learning Series** -- https://github.com/YUVI-yb/dt-projects/blob/main/assignments/AI_newsletter.pdf
+**2. AI Newsletter — Structured Learning Series** 
+
 A curated set of written entries focused on explaining artificial intelligence concepts in a clear and structured format.
 
 The project prioritises:
@@ -29,7 +31,8 @@ The project prioritises:
 
 Each issue is designed to be readable without prior context.
 
-**3. Finance Assignment — Analytical Exercise** -- https://github.com/YUVI-yb/dt-projects/tree/main/assignments/Finance%20Assignment
+**3. Finance Assignment — Analytical Exercise** 
+
 A structured finance-related exercise focused on applying analytical reasoning to financial concepts.
 
 The emphasis is on:
