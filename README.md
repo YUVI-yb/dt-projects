@@ -29,7 +29,7 @@ The project prioritises:
 
 Each issue is designed to be readable without prior context.
 
-**3. Finance Assignment — Analytical Exercise**
+**3. Finance Assignment — Analytical Exercise** -- https://github.com/YUVI-yb/dt-projects/tree/main/assignments/Finance%20Assignment
 A structured finance-related exercise focused on applying analytical reasoning to financial concepts.
 
 The emphasis is on:
