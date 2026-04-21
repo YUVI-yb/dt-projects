@@ -11,9 +11,6 @@ A deterministic end-of-day reflection tool. No LLM at runtime. Same answers → 
   reflection-tree.json     ← Part A: complete tree data (37 nodes)
   tree-diagram.md          ← Part A: visual diagram (Mermaid)
 
-/agent/
-  index.html               ← Part B: runnable web agent (zero dependencies)
-
 /transcripts/
   persona-1-transcript.md  ← Part B: Victor / Contributing / Altrocentric
   persona-2-transcript.md  ← Part B: Victim / Entitled / Selfcentric
@@ -22,18 +19,6 @@ write-up.md                ← Part A: design rationale (2 pages)
 README.md                  ← this file
 ```
 
----
-
-## How to Run the Agent
-
-No server required. No npm install. No dependencies.
-
-1. Open `agent/index.html` in any browser (Chrome, Firefox, Safari)
-2. That's it.
-
-The agent loads the tree structure directly from the JavaScript in the HTML file. The `reflection-tree.json` in `/tree/` is the canonical source-of-truth data file; the agent mirrors it inline so it can run as a single file.
-
----
 
 ## How to Read the Tree
 
