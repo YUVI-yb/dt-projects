@@ -1,61 +1,92 @@
-# DT Projects — Yuvi Bansal
+# DT Projects Submission — Yuvi Bansal
 
-A curated collection of structured projects built for the DT Fellowship submission. These projects focus on systems thinking, structured reasoning, and clarity of design over complexity or cosmetic output.
+This repository contains three completed assignments demonstrating structured thinking, system design, and applied problem-solving across finance reasoning, content design, and behavioral systems.
 
-Each project is self-contained and demonstrates a different aspect of applied problem-solving.
+Each project is self-contained and can be reviewed independently.
 
-📁 Projects Overview
+---
 
-**1. Reflection Tree — Deterministic Behavioural System** 
+## 📁 Repository Overview
 
-A rule-based psychological reflection tool that guides users through a structured end-of-day reflection using three axes:
+### 1. Finance Assignment
+A structured financial reasoning exercise focused on applying analytical thinking to real-world-style scenarios.
 
-- Locus of Control (Internal vs External)
-- Orientation (Contribution vs Entitlement)
-- Radius of Concern (Self vs Others)
+- Focus: financial interpretation + structured decision-making
+- Format: written + supporting artifacts
+- Outcome: clear, explainable reasoning process rather than calculation-only output
 
-The system is fully deterministic:
-> Same inputs → same path → same reflection
+👉 View Project:  
+`./assignments/Finance Assignment/`
 
-No AI or randomness is used at runtime. The output is fully traceable and logic-driven.
+---
 
+### 2. AI Newsletter
+A curated newsletter exploring AI themes in a structured, readable format.
 
-**2. AI Newsletter — Structured Learning Series** 
+- Focus: synthesis of ideas, clarity of communication
+- Format: markdown-based editorial writing
+- Outcome: consistent narrative tone with structured sections
 
-A curated set of written entries focused on explaining artificial intelligence concepts in a clear and structured format.
+👉 View Project:  
+`./assignments/AI Newsletter/`
 
-The project prioritises:
-- Concept clarity over technical complexity
-- Structured explanation over free-form writing
-- Independent, self-contained entries
+---
 
-Each issue is designed to be readable without prior context.
+### 3. Reflection Tree (Behavioral Simulation System)
+A deterministic, node-based reflection system designed to simulate end-of-day self-reflection through structured decision paths.
 
-**3. Finance Assignment — Analytical Exercise** 
+- Focus: behavioral modeling + decision trees + psychological axes
+- Core idea: same inputs always produce the same reflection path (no LLM dependency)
+- Structure:
+  - Axis 1: Locus of Control
+  - Axis 2: Contribution vs Entitlement
+  - Axis 3: Self vs Other orientation
+- Includes:
+  - Full node graph (JSON)
+  - Visual flow diagram (Mermaid)
+  - Design rationale
+  - Sample user transcripts (persona-based execution paths)
 
-A structured finance-related exercise focused on applying analytical reasoning to financial concepts.
+👉 View Project:  
+`./assignments/Reflection Tree/`
 
-The emphasis is on:
-- Logical breakdown of financial ideas
-- Structured interpretation of information
-- Clear and concise presentation of reasoning
+---
 
+## 🧠 Design Philosophy
 
-🧠 Design Philosophy
+Across all three assignments, the focus is consistent:
 
-Across all three projects, the focus remains consistent:
+- Clarity over complexity
+- Structured reasoning over output volume
+- Systems thinking over isolated answers
+- Explainability over opacity
 
-- Structure over ambiguity  
-- Deterministic logic over randomness  
-- Clear systems over abstract outputs  
-- Readability and traceability over complexity  
+The Reflection Tree extends this further into a deterministic behavioral model, where outcomes are fully traceable from inputs without external computation or AI inference.
 
-The goal is to demonstrate how structured thinking can be applied across different domains.
+---
 
-📂 Repository Structure
+## 📌 How to Evaluate
 
-📌 Notes
-- Each project is independent and self-contained  
-- The repository is designed for evaluation and review clarity  
-- The Reflection Tree includes a runnable interface via GitHub Pages  
-- All projects prioritise structure, reasoning, and interpretability over presentation complexity  
+Each project can be reviewed independently:
+
+1. Open the respective folder
+2. Read the README / documentation inside
+3. Follow linked artifacts (where applicable)
+
+No setup or installation is required.
+
+---
+
+## 📎 Notes
+
+- All work is fully self-contained
+- No external runtime dependencies
+- Reflection Tree is deterministic by design (no LLM used at runtime)
+- Projects are structured to reflect real-world clarity and decision systems
+
+---
+
+## 👤 Author
+
+Yuvi Bansal  
+DT Fellowship Applicant
