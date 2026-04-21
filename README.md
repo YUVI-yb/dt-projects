@@ -6,7 +6,7 @@ Each project is self-contained and demonstrates a different aspect of applied pr
 
 📁 Projects Overview
 
-**1. Reflection Tree — Deterministic Behavioural System**
+**1. Reflection Tree — Deterministic Behavioural System** -- https://github.com/YUVI-yb/dt-projects/tree/main/assignments/Reflection%20Tree
 A rule-based psychological reflection tool that guides users through a structured end-of-day reflection using three axes:
 
 - Locus of Control (Internal vs External)
