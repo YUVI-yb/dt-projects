@@ -19,7 +19,7 @@ The system is fully deterministic:
 No AI or randomness is used at runtime. The output is fully traceable and logic-driven.
 
 
-**2. AI Newsletter — Structured Learning Series**
+**2. AI Newsletter — Structured Learning Series** -- https://github.com/YUVI-yb/dt-projects/blob/main/assignments/AI_newsletter.pdf
 A curated set of written entries focused on explaining artificial intelligence concepts in a clear and structured format.
 
 The project prioritises:
